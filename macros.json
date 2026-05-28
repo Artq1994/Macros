@@ -2,7 +2,8 @@
   "macros": {
     "flap": "Se observa flap en el puerto 'PUERTO' del equipo 'EQUIPO'",
     "saludo": "Hola, ¿cómo estás?",
-    "luz": "Nodo *NODO* con servicio eléctrico.",
-    "n-luz": "Nodo *NODO* sin servicio eléctrico."
+    "despedida": "Gracias por tu atención. Quedo atento.",
+    "reunion": "Te confirmo la reunión para el dia 'FECHA' a las 'HORA'",
+    "gracias": "Muchas gracias por tu respuesta."
   }
 }
