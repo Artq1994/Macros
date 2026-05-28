@@ -3,6 +3,6 @@
     "flap": "Se observa flap en el puerto 'PUERTO' del equipo 'EQUIPO'",
     "saludo": "Hola, ¿cómo estás?",
     "luz": "Nodo *NODO* con servicio eléctrico.",
-    "n-luz": "Nodo *NODO* sin servicio eléctrico.",
+    "n-luz": "Nodo *NODO* sin servicio eléctrico."
   }
 }
