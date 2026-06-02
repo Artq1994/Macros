@@ -7,7 +7,7 @@
     "nluz": "Nodo 'NODO' con servicio eléctrico",
     "previogpon": "Previo a la actividad compartimos los valores del trafico total residencial del nodo Cañada, así como los leases totales ipv4 como ipv6.\nRX: 1.92 Gb/s.\nTX: 12.5 Gb/s.\nLeases Ipv4: 5243.\nLeases Ipv6: 1955",
     "reunion": "Te confirmo la reunión para el dia 'FECHA' a las 'HORA'",
-    "nvmante": "🔔Notificación de ventana de mantenimiento🔔\n\n	Asunto: Actualización tecnológica en el nodo Villa del Rosario. \n	🗓️Fecha: 29/05/2026 \n	🕒Hora de inicio: 12:00 am. \n	Duración estimada: 1 hora y 30 minutos. \n	Servicios afectados: Servicios GPON de los nodos Villa del Rosario, Machiques, Barranquitas y San José. \n       Tiempo de indisponibilidad: 30 minutos.",
+    "nvmante": "🔔Notificación de ventana de mantenimiento🔔\n	Asunto: Actualización tecnológica en el nodo Villa del Rosario. \n	🗓️Fecha: 29/05/2026 \n	🕒Hora de inicio: 12:00 am. \n	Duración estimada: 1 hora y 30 minutos. \n	Servicios afectados: Servicios GPON de los nodos Villa del Rosario, Machiques, Barranquitas y San José. \n       Tiempo de indisponibilidad: 30 minutos.",
     "gracias": "Muchas gracias por tu respuesta."
   }
 }
