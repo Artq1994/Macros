@@ -2,12 +2,12 @@
   "macros": {
   },
   "mensajes_generales": {
-    "notificacion_mantenimiento": "🔔Notificación de ventana de mantenimiento🔔\n\nAsunto:\n🗓️Fecha:\n🕒Hora de inicio:\nDuración estimada:\nServicios afectados:\nTiempo de indisponibilidad:",
-    "inicio_mantenimiento": "🔔Notificación de inicio de ventana de mantenimiento🔔\n\nAsunto:",
-    "fin_mantenimiento": "🔔Notificación de finalización de ventana de mantenimiento🔔\n\nAsunto:",
-    "update_mantenimiento": "🔔UPDATE🔔\n\nVentana de mantenimiento: \nResumen:",
-    "trabajos_nodos": "Buenos días muchachos, se realizaron trabajos en los Nodos *NODO*. en el caso de recibir clientes reportando de los nodos mencionados, validar con un reinicio, por favor.",
-    "problema_iptv": "Buenas tardes, equipo, para su conocimiento en estos momentos se presenta un inconveniente con el servicio de IPTV.",
+    "notiman": "🔔Notificación de ventana de mantenimiento🔔\n\nAsunto:\n🗓️Fecha:\n🕒Hora de inicio:\nDuración estimada:\nServicios afectados:\nTiempo de indisponibilidad:",
+    "iniman": "🔔Notificación de inicio de ventana de mantenimiento🔔\n\nAsunto:",
+    "finman": "🔔Notificación de finalización de ventana de mantenimiento🔔\n\nAsunto:",
+    "upman": "🔔UPDATE🔔\n\nVentana de mantenimiento: \nResumen:",
+    "tranodos": "Buenos días muchachos, se realizaron trabajos en los Nodos *NODO*. en el caso de recibir clientes reportando de los nodos mencionados, validar con un reinicio, por favor.",
+    "problemiptv": "Buenas tardes, equipo, para su conocimiento en estos momentos se presenta un inconveniente con el servicio de IPTV.",
     "flap": "Se observa flap el puerto 'PUERTO' con descripción 'DESCRIPCION' desde el equipo 'EQUIPO'.",
     "saludo": "Hola, ¿cómo estás?",
     "despedida": "Gracias por tu atención. Quedo atento.",
@@ -18,8 +18,8 @@
     "gracias": "Muchas gracias por tu respuesta."
   },
   "internet_dedicado": {
-    "flap_dedicado": "*Flap* de puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 25ms)*",
-    "puerto_up_dedicado": "Puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 50ms)* se encuentra *UP*"
+    "flap18600": "*Flap* de puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 25ms)*",
+    "up18600": "Puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 50ms)* se encuentra *UP*"
   },
   "averias_mayores": {
     "update_incidente": "🚨UPDATE🚨\n\n⚠️ Incidente activo: corte de fibra | Afectación energética | Afectación lógica | degradación del servicio\nNodo(s) afectado(s): \nServicios afectados: GPON RESIDENCIAL | Airtek TV | CLIENTES DEDICADOS | GPON PYME\nCantidad de clientes afectados: xxxx",
