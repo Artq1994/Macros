@@ -16,12 +16,12 @@
     "previo:": "Previo a la actividad compartimos los valores del tráfico total residencial del nodo Cañada, así como los leases totales ipv4 como ipv6.\nR",
     "reunion": "Te confirmo la reunión para el día 'FECHA' a las 'HORA'",
     "holaa": "Te confirmo la reunión para el día 'FECHA'",
+    "holaaa": "Te confirmo la reunión para el día 'FECHA'",
     "gracias": "Muchas gracias por tu respuesta."
   },
   "internet_dedicado": {
     "flap18600": "*Flap* de puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 25ms)*",
-    "up18600": "Puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 50ms)* se encuentra *UP*",
-    "holaaa": "Te confirmo la reunión para el día 'FECHA'"
+    "up18600": "Puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 50ms)* se encuentra *UP*"
   },
   "averias_mayores": {
     "update_incidente": "🚨UPDATE🚨\n\n⚠️ Incidente activo: corte de fibra | Afectación energética | Afectación lógica | degradación del servicio\nNodo(s) afectado(s): \nServicios afectados: GPON RESIDENCIAL | Airtek TV | CLIENTES DEDICADOS | GPON PYME\nCantidad de clientes afectados: xxxx",
