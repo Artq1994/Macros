@@ -26,6 +26,7 @@
   "averias_mayores": {
     "update_incidente": "🚨UPDATE🚨\n\n⚠️ Incidente activo: corte de fibra | Afectación energética | Afectación lógica | degradación del servicio\nNodo(s) afectado(s): \nServicios afectados: GPON RESIDENCIAL | Airtek TV | CLIENTES DEDICADOS | GPON PYME\nCantidad de clientes afectados: xxxx",
     "sin_servicio_electrico": "Los siguientes nodos se encuentran sin servicio eléctrico:\n- *NODO*",
+    "holaaaa": "Te confirmo la reunión para el día 'FECHA'",
     "sin_electricidad_planta_encendida": "Nodos sin servicio eléctrico y planta encendida:\n- *NODO*"
   }
 }
