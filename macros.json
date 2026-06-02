@@ -15,7 +15,7 @@
     "nlu": "Nodo 'NODO' con servicio eléctrico",
     "previo:": "Previo a la actividad compartimos los valores del tráfico total residencial del nodo Cañada, así como los leases totales ipv4 como ipv6.\nR",
     "reunion": "Te confirmo la reunión para el día 'FECHA' a las 'HORA'",
-    "holaa": "Te confirmo la reunión para el día 'FECHA' a las 'HORA'",
+    "holaa": "Te confirmo la reunión para el día 'FECHA'",
     "gracias": "Muchas gracias por tu respuesta."
   },
   "internet_dedicado": {
